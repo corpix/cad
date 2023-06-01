@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="1189mm" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.2" xmlns="http://www.w3.org/2000/svg" height="841mm" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 11890 8410">
+ <title>FreeCAD SVG Export</title>
+ <desc>Drawing page: Page exported from FreeCAD document: konakovskiy</desc>
+ <defs/>
+ <g id="Page" inkscape:groupmode="layer" inkscape:label="TechDraw">
+  <g stroke-linecap="square" stroke-linejoin="bevel" id="DrawingContent" fill="none" stroke-width="1" stroke="black" fill-rule="evenodd">
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2636 L-448,2868 L32,2868 L32,-1568 L4928,-1568 L4928,-4104 L-4928,-4104 L-4928,4104 L-1248,4104 L-1248,2868 L-1128,2868 L-1128,2708 L-1248,2708 L-1328,2708 L-1328,2588 L-1408,2588 L-1408,2708 L-1408,2856 L-1756,2856 L-1756,3512 L-1408,3512 L-1408,3944 L-3552,3944 L-3552,1800 L-1408,1800 L-1328,1800 L-1328,864 L-1408,864 L-1408,1640 L-4608,1640 L-4608,-1568 L-1408,-1568 L-1408,-304 L-1888,-304 L-1888,-264 L-1408,-264 L-1408,-144 L-1328,-144 L-1328,-264 L-872,-264 L-872,-304 L-1328,-304 L-1328,-1568 L-816,-1568 L-816,-1728 L-4608,-1728 L-4608,-3944 L-1408,-3944 L-1408,-2600 L-1888,-2600 L-1888,-2560 L-1408,-2560 L-1408,-2440 L-1328,-2440 L-1328,-2480 L-768,-2480 L-768,-2520 L-1328,-2520 L-1328,-3512.59 L-678.378,-3512.59 L-678.378,-3552.59 L-678.378,-3904 L832,-3904 L832,-2520 L-128,-2520 L-128,-2480 L832,-2480 L832,-2440 L912,-2440 L912,-3944 L3552,-3944 L3552,-1728 L-128,-1728 L-128,2468 L-448,2468 L-448,2508 L-448,2636" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2636 L-448,2868 L32,2868 L32,-1568 L4928,-1568 L4928,-4104 L-4928,-4104 L-4928,4104 L-1248,4104 L-1248,2868 L-1128,2868 L-1128,2708 L-1248,2708 L-1328,2708 L-1408,2708 L-1408,2856 L-1756,2856 L-1756,3512 L-1408,3512 L-1408,3944 L-3552,3944 L-3592,3944 L-3712,3944 L-3712,1800 L-3592,1800 L-3552,1800 L-1408,1800 L-1328,1800 L-1328,864 L-1408,864 L-1408,1640 L-4608,1640 L-4648,1640 L-4768,1640 L-4768,-1568 L-4648,-1568 L-4608,-1568 L-1408,-1568 L-1408,-304 L-1408,-264 L-1408,-144 L-1328,-144 L-1328,-264 L-1328,-304 L-1328,-1568 L-816,-1568 L-816,-1728 L-4608,-1728 L-4648,-1728 L-4768,-1728 L-4768,-3944 L-4648,-3944 L-4608,-3944 L-1408,-3944 L-1408,-2600 L-1408,-2560 L-1408,-2440 L-1328,-2440 L-1328,-2480 L-1328,-2520 L-1328,-3512.59 L-1328,-3552.59 L-1328,-3944 L-718.378,-3944 L-678.378,-3944 L832,-3944 L832,-3904 L832,-2520 L832,-2480 L832,-2440 L912,-2440 L912,-3944 L3552,-3944 L3592,-3944 L3712,-3944 L3712,-1728 L3592,-1728 L3552,-1728 L-128,-1728 L-128,2468 L-128,2508 L-128,2636 L-408,2636 L-448,2636" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M4768,-1728 L4768,-3408 L3872,-3408 L3872,-1728 L4768,-1728" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,1800 L-4768,3480 L-3872,3480 L-3872,1800 L-4768,1800" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,-1568 L-4648,-1568 L-4648,1640 L-4768,1640 L-4768,-1568" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M4768,-3568 L4768,-3944 L3872,-3944 L3872,-3568 L4768,-3568" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3872,3944 L-3872,3640 L-4768,3640 L-4768,3944 L-3872,3944" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4648,-1728 L-4648,-3944 L-4768,-3944 L-4768,-1728 L-4648,-1728" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3712,-1728 L3712,-3944 L3592,-3944 L3592,-1728 L3712,-1728" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3712,1800 L-3712,3944 L-3592,3944 L-3592,1800 L-3712,1800" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-3552.59 L-718.378,-3552.59 L-718.378,-3944 L-1328,-3944 L-1328,-3552.59" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4608,1640 L-4608,-1568 L-4648,-1568 L-4648,1640 L-4608,1640" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3592,-3944 L3592,-1728 L3552,-1728 L3552,-3944 L3592,-3944" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4608,-3944 L-4608,-1728 L-4648,-1728 L-4648,-3944 L-4608,-3944" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3592,3944 L-3592,1800 L-3552,1800 L-3552,3944 L-3592,3944" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M832,-3944 L832,-3904 L-678.378,-3904 L-678.378,-3944 L832,-3944" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M832,-2520 L832,-2480 L-128,-2480 L-128,-2520 L832,-2520" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-128,2636 L-128,2508 L-408,2508 L-408,2636 L-128,2636" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-678.378,-3552.59 L-678.378,-3512.59 L-1328,-3512.59 L-1328,-3552.59 L-718.378,-3552.59 L-678.378,-3552.59" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-768,-2520 L-768,-2480 L-1328,-2480 L-1328,-2520 L-768,-2520" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-264 L-1408,-304 L-1888,-304 L-1888,-264 L-1408,-264" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-2600 L-1408,-2560 L-1888,-2560 L-1888,-2600 L-1408,-2600" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-304 L-872,-304 L-872,-264 L-1328,-264 L-1328,-304" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-678.378,-3944 L-678.378,-3904 L-678.378,-3552.59 L-718.378,-3552.59 L-718.378,-3944 L-678.378,-3944" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-128,2508 L-128,2468 L-448,2468 L-448,2508 L-408,2508 L-128,2508" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,2708 L-1328,2588 L-1408,2588 L-1408,2708 L-1328,2708" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g font-weight="400" fill="#ffffff" font-family="Fira Code" font-style="normal" stroke="none" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2636 L-448,2508 L-408,2508 L-408,2636 L-448,2636" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1888,-304 L-1408,-304" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-304 L-1408,-264" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-264 L-1888,-264" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1888,-264 L-1888,-304" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-304 L-872,-304" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-872,-304 L-872,-264" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-872,-264 L-1328,-264" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-264 L-1328,-304" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1888,-2600 L-1408,-2600" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-2600 L-1408,-2560" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-2560 L-1888,-2560" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1888,-2560 L-1888,-2600" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-3552.59 L-678.378,-3552.59" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-678.378,-3552.59 L-718.378,-3552.59" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-718.378,-3552.59 L-718.378,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-718.378,-3944 L-678.378,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-678.378,-3944 L832,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M832,-3944 L832,-3904" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M832,-3904 L-678.378,-3904" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-678.378,-3904 L-678.378,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-678.378,-3944 L-678.378,-3552.59" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-678.378,-3552.59 L-678.378,-3512.59" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-678.378,-3512.59 L-1328,-3512.59" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-3512.59 L-1328,-3552.59" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-2520 L-768,-2520" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-768,-2520 L-768,-2480" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-768,-2480 L-1328,-2480" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-2480 L-1328,-2520" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-128,-2520 L832,-2520" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M832,-2520 L832,-2480" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M832,-2480 L-128,-2480" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-128,-2480 L-128,-2520" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4648,-3944 L-4608,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4608,-3944 L-4608,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4608,-1728 L-4648,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4648,-1728 L-4648,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3552,-3944 L3592,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3592,-3944 L3592,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3592,-1728 L3552,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3552,-1728 L3552,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4608,-1568 L-4648,-1568" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4648,-1568 L-4648,1640" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4648,1640 L-4608,1640" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4608,1640 L-4608,-1568" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3592,1800 L-3552,1800" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3552,1800 L-3552,3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3552,3944 L-3592,3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3592,3944 L-3592,1800" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2468 L-128,2468" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-128,2468 L-128,2508" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-128,2508 L-448,2508" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2508 L-408,2508" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-408,2508 L-408,2636" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-408,2636 L-448,2636" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2636 L-448,2508" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2508 L-448,2468" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,2708 L-1328,2708" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,2708 L-1328,2588" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,2588 L-1408,2588" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,2588 L-1408,2708" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2636 L-448,2868" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2868 L32,2868" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M32,2868 L32,-1568" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M32,-1568 L4928,-1568" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M4928,-1568 L4928,-4104" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M4928,-4104 L-4928,-4104" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4928,-4104 L-4928,4104" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4928,4104 L-1248,4104" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1248,4104 L-1248,2868" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1248,2868 L-1128,2868" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1128,2708 L-1128,2868" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1248,2708 L-1128,2708" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,2708 L-1248,2708" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,2856 L-1408,2708" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,2856 L-1756,2856" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1756,2856 L-1756,3512" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1756,3512 L-1408,3512" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,3944 L-1408,3512" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3712,3944 L-1408,3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3712,1800 L-3712,3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3712,1800 L-1408,1800" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,1800 L-1408,1800" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,864 L-1328,1800" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,864 L-1328,864" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,1640 L-1408,864" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,1640 L-4768,1640" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,-1568 L-4768,1640" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,-1568 L-1408,-1568" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-144 L-1408,-1568" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-144 L-1408,-144" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-1568 L-1328,-144" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-1568 L-816,-1568" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-816,-1568 L-816,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-816,-1728 L-4768,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,-3944 L-4768,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-3944 L-4768,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-3944 L-1408,-2440" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-2440 L-1328,-2440" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1328,-2440 L-1328,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M832,-3944 L-1328,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M832,-3944 L832,-2440" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M832,-2440 L912,-2440" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M912,-2440 L912,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3712,-3944 L912,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3712,-1728 L3712,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-128,-1728 L3712,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-128,2636 L-128,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-448,2636 L-128,2636" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M4768,-1728 L4768,-3408" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M4768,-3408 L3872,-3408" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3872,-3408 L3872,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3872,-1728 L4768,-1728" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M4768,-3944 L3872,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3872,-3944 L3872,-3568" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M3872,-3568 L4768,-3568" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M4768,-3568 L4768,-3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,1800 L-4768,3480" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,1800 L-3872,1800" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3872,3480 L-3872,1800" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,3480 L-3872,3480" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,3944 L-3872,3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3872,3944 L-3872,3640" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-3872,3640 L-4768,3640" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="2.5" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-4768,3640 L-4768,3944" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,3205.23,1934.79)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70">600.00</text>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,3337.93,1934.79)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70"> mm</text>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,-2188.85 L-1888,-2188.85 M-1888,-2560 L-1888,-2178.45 M-1408,-2560 L-1408,-2178.45" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,3121.48,2015.64)">
+    <path fill-rule="evenodd" d="M0,0 L30,5 L30,-5 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,3601.48,2015.64)">
+    <path fill-rule="evenodd" d="M0,0 L-30,-5 L-30,5 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(0,-1,1,0,2838.72,2027.95)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70">50.00</text>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(0,-1,1,0,2838.72,1918.44)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70"> mm</text>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-2089.9,-2173.55 L-2089.9,-2660 M-1888,-2600 L-2100.3,-2600 M-1888,-2560 L-2100.3,-2560" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,2919.57,1604.5)">
+    <path fill-rule="evenodd" d="M0,0 L5,-30 L-5,-30 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,2919.57,1644.5)">
+    <path fill-rule="evenodd" d="M0,0 L-5,30 L5,30 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(0,-1,1,0,2924.84,2035.33)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70">150.00</text>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(0,-1,1,0,2924.84,1908.26)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70"> mm</text>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-2003.78,-2165.69 L-2003.78,-2620 M-1408,-2560 L-2014.18,-2560 M-1408,-2440 L-2014.18,-2440" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,3005.69,1644.5)">
+    <path fill-rule="evenodd" d="M0,0 L5,-30 L-5,-30 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,3005.69,1764.5)">
+    <path fill-rule="evenodd" d="M0,0 L-5,30 L5,30 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,3787.4,4316.86)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70">570.00</text>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,3920.83,4316.86)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70"> mm</text>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-872,193.208 L-1328,193.208 M-1328,-264 L-1328,203.608 M-872,-264 L-872,203.608" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,3681.48,4397.71)">
+    <path fill-rule="evenodd" d="M0,0 L30,5 L30,-5 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,4137.48,4397.71)">
+    <path fill-rule="evenodd" d="M0,0 L-30,-5 L-30,5 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,3232.39,4316.76)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70">600.00</text>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,3365.09,4316.76)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70"> mm</text>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-1408,193.113 L-1888,193.113 M-1888,-264 L-1888,203.513 M-1408,-264 L-1408,203.513" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,3121.48,4397.61)">
+    <path fill-rule="evenodd" d="M0,0 L30,5 L30,-5 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,3601.48,4397.61)">
+    <path fill-rule="evenodd" d="M0,0 L-30,-5 L-30,5 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(0,-1,1,0,2859.42,4408.52)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70">150.00</text>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(0,-1,1,0,2859.42,4281.45)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70"> mm</text>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-2069.2,-324 L-2069.2,207.498 M-1408,-144 L-2079.6,-144 M-1408,-264 L-2079.6,-264" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,2940.27,4060.5)">
+    <path fill-rule="evenodd" d="M0,0 L-5,30 L5,30 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,2940.27,3940.5)">
+    <path fill-rule="evenodd" d="M0,0 L5,-30 L-5,-30 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <rect width="0" height="0" x="0" y="0"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(0,-1,1,0,2782,4405.78)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70">50.00</text>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1" stroke="#000000" font-size="35.2778" transform="matrix(0,-1,1,0,2782,4296.27)">
+    <text font-weight="400" fill="#000000" font-family="osifont" font-style="normal" stroke="none" font-size="50" fill-opacity="1" xml:space="preserve" x="4" y="70"> mm</text>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="none" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" transform="matrix(1,0,0,1,5009.48,4204.5)">
+    <path fill-rule="evenodd" d="M-2146.62,204.283 L-2146.62,-364 M-1888,-304 L-2157.02,-304 M-1888,-264 L-2157.02,-264" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,2862.85,3900.5)">
+    <path fill-rule="evenodd" d="M0,0 L5,-30 L-5,-30 L0,0" vector-effect="none"/>
+   </g>
+   <g stroke-linecap="round" stroke-linejoin="bevel" font-weight="400" fill="#000000" stroke-opacity="1" font-family="Fira Code" font-style="normal" stroke-width="1.3" stroke="#000000" font-size="35.2778" fill-opacity="1" transform="matrix(1,0,0,1,2862.85,3940.5)">
+    <path fill-rule="evenodd" d="M0,0 L-5,30 L5,30 L0,0" vector-effect="none"/>
+   </g>
+  </g>
+ </g>
+</svg>
